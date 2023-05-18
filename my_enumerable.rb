@@ -15,4 +15,3 @@ module MyEnumerable
     filter_array
   end
 end
-  
