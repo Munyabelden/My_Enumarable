@@ -18,5 +18,5 @@ puts(list.all? { |element| element < 5 })
 puts(list.all? { |element| element > 5 })
 puts(list.any? { |element| element == 2 })
 puts(list.any? { |element| element == 5 })
-filter_array = list.filter { |element| element.even? }
+filter_array = list.filter(&:even?)
 puts filter_array.inspect
