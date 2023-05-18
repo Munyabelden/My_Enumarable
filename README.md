@@ -24,7 +24,7 @@
 
 # 📖 Enumerable List <a name="about-project"></a>
 
-**Enumerable List** is an app that decodes any morse code into english.
+**Enumerable List** is functions that are intializing an array list and emumerating the using emumerable methods in ruby. For ruby practice
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,7 +41,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Morse code translation**
+- **all?, any?, #each and filter methods**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -93,8 +93,7 @@ sudo install ruby
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add an input to enter morse code an get a tranlations**
-- [ ] **Functional testing**
+- [ ] **Unit testing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
